@@ -65,14 +65,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/gbw0qn8zs7tcobymo24951vg2?si=87982f7f0a574c63">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/harshpreet1123" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
